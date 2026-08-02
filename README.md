@@ -24,8 +24,6 @@ This extension intelligently learns your customer data patterns and auto-fills f
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://aevornsell.gumroad.com/l/zgciz)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/14A5kDbHhe2M3lmfQ8cZr1N)** — Secure checkout
 
 ## Installation
@@ -37,7 +35,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://aevornsell.gumroad.com/l/zgciz)
 
 ## License
 
